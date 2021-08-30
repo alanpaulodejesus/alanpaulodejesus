@@ -1,16 +1,29 @@
-### Hi there 👋
+### <i> Hello! I am Alan!</i>🖖
 
-<!--
-**alanpaulodejesus/alanpaulodejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <i>
+I am a Quality Analyst with profile technicial. I am CTFL, CTFL-AT, CTAL-TAE and CTAL-TA certified with international credentials. I been working in projects using methods agile, and developing automation aplication test using Java and JavaScript.
+I have experience in automation of interface with frameworks as Selenium Webdriver, Protractor and Cypress. I have experience too in atutomation of API with RestAssured and Cypress. I performed some studys envolving automation of aplication Mobile using frameworks as Robotium and Appium.
+I like technology and I am love to my profession and my hoobie is learn news technologies.
+   </i>
+ </div>
+ <p>
+ <p>
+ <div>
+  
+  <a href="https://github.com/alanpaulodejesus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanpaulodejesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpaulodejesus&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <div style="display: inline_block"><br>
+   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ </div>
+  <p>
+ <p><p> <div>
+    <a href="https://www.linkedin.com/in/alanpaulodejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
