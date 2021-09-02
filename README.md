@@ -34,9 +34,8 @@ I like technology and I am love to my profession and my hoobie is learn news tec
 <p><p><p> 
    <div>
     <a href="https://www.linkedin.com/in/alanpaulodejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-   <div>
-       <a href="https://alanpaulodejesus.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a> 
+  
+       <a href="https://alanpaulodejesus.medium.com/" target="black"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="black"></a> 
    </div>
 
  <p><p><p>
