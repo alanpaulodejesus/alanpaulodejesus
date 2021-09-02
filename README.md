@@ -20,7 +20,7 @@ I like technology and I am love to my profession and my hoobie is learn news tec
 
 <p>
     
-    <a href="#home"><img src=https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&"></a>
+    
     <a href="#home"><img src=https://img.shields.io/badge/-JUnit%20-%23525252.svg?style=flat&logo=cachet&"></a>
     <a href="#home"><img src=https://img.shields.io/badge/-Maven%20-%23525252.svg?style=flat&logo=apache-maven&logoColor=ffb9b4&"></a>
     <a href="#home"><img src=https://img.shields.io/badge/-Cucumber%20-%23525252.svg?style=flat&logo=cucumber&"></a>
