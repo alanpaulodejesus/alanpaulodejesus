@@ -1,10 +1,23 @@
-### <i> Hello! I am Alan!</i>🖖
+### <i> Olá! Eu sou Alan!</i>🖖
 
 <div>
   <i>
-I am a Quality Analyst with profile technicial. I am CTFL, CTFL-AT, CTAL-TAE and CTAL-TA certified with international credentials. I been working in projects using methods agile, and developing automation aplication test using Java and JavaScript.
-I have experience in automation of interface with frameworks as Selenium Webdriver, Protractor and Cypress. I have experience too in atutomation of API with RestAssured and Cypress. I performed some studys envolving automation of aplication Mobile using frameworks as Robotium and Appium.
-I like technology and I am love to my profession and my hoobie is learn news technologies.
+Sou QA Engineer com perfil técnico. Possuo certificações reconhecidas internacionalmente como CTFL, CTFL-AT, CTAL-TAE e CTAL-TA. Tenho experiência trabalhando em projetos utilizando metodologias ágeis e sou especialista em automação de testes para aplicações API, Web e Mobile utilizando linguagens como Java e JavaScript.
+
+Tenho experiência e conhecimento na utilização de frameworks e ferramentas como:
+
+ - Cypress
+ - Selenium WebDriver
+ - Protractor
+ - RestAssured
+ - Appium
+ - Junit
+ - Postman
+ - Jenkins/AzureDevops
+ - Git
+ - Jmeter/Gatling/K6 
+
+Atualmente faço especialização de Arquitetura e Desenvolvimento em Java e estudo criações de API REST utilizando Spring Boot.
    </i>
  </div>
  <p>
