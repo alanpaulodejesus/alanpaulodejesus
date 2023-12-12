@@ -15,7 +15,8 @@ Tenho experiência e conhecimento na utilização de frameworks e ferramentas co
  - Postman
  - Jenkins/AzureDevops
  - Git
- - Jmeter/Gatling/K6 
+ - Jmeter/Gatling/K6
+ - Spring Boot
 
 Atualmente faço especialização de Arquitetura e Desenvolvimento em Java e estudo criações de API REST utilizando Spring Boot.
    </i>
