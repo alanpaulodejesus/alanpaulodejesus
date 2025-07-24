@@ -1,42 +1,73 @@
-### <i> Olá! Eu sou Alan!</i>🖖
+# 👋 Olá! Eu sou o Alan! 🖖
 
 <div>
   <i>
-Sou QA Engineer com perfil técnico. Possuo certificações reconhecidas internacionalmente como CTFL, CTFL-AT, CTAL-TAE e CTAL-TA. Tenho experiência trabalhando em projetos utilizando metodologias ágeis e sou especialista em automação de testes para aplicações API, Web e Mobile utilizando linguagens como Java e JavaScript.
+Sou QA Engineer com perfil técnico. Possuo certificações reconhecidas internacionalmente como:
 
-Tenho experiência e conhecimento na utilização de frameworks e ferramentas como:
+- 📜 CTFL (Certified Tester Foundation Level)  
+- 🧪 CTFL-AT (Agile Tester)  
+- 🛠️ CTAL-TAE (Test Automation Engineer)  
+- 🎯 CTAL-TA (Technical Test Analyst)
 
- - Cypress
- - Selenium WebDriver
- - Protractor
- - RestAssured
- - Appium
- - Junit
- - Postman
- - Jenkins/AzureDevops
- - Git
- - Jmeter/Gatling/K6
- - Spring Boot
-
-Atualmente faço especialização de Arquitetura e Desenvolvimento em Java e estudo criações de API REST utilizando Spring Boot.
-   </i>
- </div>
- <p>
- <p>
- <div>
-  
-  <a href="https://github.com/alanpaulodejesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanpaulodejesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpaulodejesus&layout=compact&langs_count=7&theme=dark"/>
+Tenho experiência em projetos ágeis e sou especialista em **automação de testes para APIs, aplicações Web e Mobile**, utilizando linguagens como **Java** e **JavaScript**.
+  </i>
 </div>
 
- <p>
+---
 
-<p><p><p> 
-   <div>
-    <a href="https://www.linkedin.com/in/alanpaulodejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+## 🚀 Tecnologias e Ferramentas que domino
 
+✅ Testes Automatizados  
+✅ Integração Contínua  
+✅ Performance & QA Estratégico  
 
-   
-   
+### 📦 Frameworks e Ferramentas:
+
+- 🧪 **Cypress** – E2E para web e api
+- 🧪 **Selenium WebDriver** – Automação web
+- 🧪 **Protractor** – Angular apps
+- 🔬 **RestAssured** – Testes de API REST em Java
+- 📱 **Appium** – Testes mobile (Android/iOS)
+- 🧪 **Junit** – Testes unitários e integração
+- 📬 **Postman** – Testes manuais e scripts de API
+- 🔁 **Jenkins / Azure DevOps** – CI/CD pipelines
+- 🧬 **Git** – Versionamento
+- ⚡ **JMeter / Gatling / K6** – Testes de performance
+- 🛠️ **Spring Boot** – Backend e APIs REST
+
+---
+
+## 📚 Estudos
+
+🎓 Concluí a especialização em **Arquitetura e Desenvolvimento em Java** pela FIAP, com foco em criar e testar APIs REST robustas utilizando **Spring Boot**.
+
+---
+
+## 💡 GitHub Stats
+
+<div>
+  <a href="https://github.com/alanpaulodejesus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanpaulodejesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpaulodejesus&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/alanpaulodejesus/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+## ✨ Sobre mim
+
+> Apaixonado por tecnologia, qualidade de software e boas práticas.  
+> Gosto de desafios, aprendizado contínuo e contribuir para produtos cada vez mais confiáveis.
+
+---
+
