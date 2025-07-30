@@ -41,7 +41,18 @@ Tenho experiência em projetos ágeis e sou especialista em **automação de tes
 
 🎓 Concluí a especialização em **Arquitetura e Desenvolvimento em Java** pela FIAP, com foco em criar e testar APIs REST robustas utilizando **Spring Boot**.
 
+
 ---
+
+
+## 📘 Medium
+
+📝 Compartilho meus aprendizados e experiências no Medium:
+
+🔗 [https://medium.com/@alanpaulodejesus](https://medium.com/@alanpaulodejesus)
+
+---
+
 
 ## 💡 GitHub Stats
 
