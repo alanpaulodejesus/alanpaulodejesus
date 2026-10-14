@@ -35,7 +35,7 @@ Tenho experiência em projetos ágeis e sou especialista em **automação de tes
 - 🧬 **Git** – Versionamento
 - ⚡ **JMeter / Gatling / K6** – Testes de performance
 - 🛠️ **Spring Boot** – Backend e APIs REST
-- 🐳 **Docker** - Container imagens
+- 🐳 **Docker** - Containerização de aplicações
 
 ---
 
