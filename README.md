@@ -24,6 +24,7 @@ Tenho experiência em projetos ágeis e sou especialista em **automação de tes
 ### 📦 Frameworks e Ferramentas:
 
 - 🧪 **Cypress** – E2E para web e api
+- 🧪 **Playwright** – E2E para web
 - 🧪 **Selenium WebDriver** – Automação web
 - 🧪 **Protractor** – Angular apps
 - 🔬 **RestAssured** – Testes de API REST em Java
